@@ -1,3 +1,36 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl                  = "https://theprivatealpha.com"           # Your domain name
+languageCode             = "en-gb"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "The Private Alpha"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "tpa.ico"
+    homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "The Private Alpha, a place for prototypists."
+
+# Metadata for Open Graph and Twitter
+    description          = "The Private Alpha, a place for prototypists."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "The Private Alpha"
+    # rss                = ""
+
+#[[params.videoBackground.sources]]
+#    source  = "/sample_video.mp4"
+#    type    = "video/mp4"
+#    poster  = "/background.png"
+#[params.videoBackground]
+#    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    link = "about"
+    text = "what is the private alpha?"
+
+[imaging]
+    quality = 75

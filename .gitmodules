@@ -1,0 +1,3 @@
+[submodule "themes/split-landing"]
+	path = themes/split-landing
+	url = https://github.com/KatamariJr/split-landing

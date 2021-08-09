@@ -13,10 +13,10 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "tpa.ico"
     homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
-    footerText           = "The Private Alpha, a place for prototypists."
+    footerText           = "The Private Alpha, a place for prototypes and prototypists."
 
 # Metadata for Open Graph and Twitter
-    description          = "The Private Alpha, a place for prototypists."               # Max 160 characters show in search results
+    description          = "The Private Alpha, a place for prototypes and prototypists."               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "The Private Alpha"
     # rss                = ""

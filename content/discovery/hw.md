@@ -2,7 +2,7 @@
 title: "Research Project HW"
 date: 2024-11-11
 showDate: true
-draft: true
+draft: false
 tags: ["research","discovery"]
 ---
 

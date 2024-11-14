@@ -17,7 +17,7 @@ pygmentsCodefences       = true
 
 # Metadata for Open Graph and Twitter
     description          = "The Private Alpha, a place for prototypes and prototypists."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    images               = ["thumbnail.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "The Private Alpha"
     # rss                = ""
 
